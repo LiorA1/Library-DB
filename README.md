@@ -1,2 +1,2 @@
 # Library-DB
-Library Data-Base implementation using RD Trees. 
+Library Data-Base implementation using RED-BLACK Trees. 
